@@ -1,0 +1,59 @@
+body{
+  font-family: 'Courier New', Courier, monospace;
+  
+}
+
+#navbar{
+  background-color: rgb(136, 5, 197);
+  height: 60px;
+}
+
+#img-navbar{
+  height: 40px;
+  margin-top: 10px;
+  float: left;
+}
+
+#principal{
+  text-align: center;
+}
+
+#informacion{
+  width: 900px;
+  float: right;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+#fuente{
+  color: black;
+  padding-top: 15px;
+}
+
+aside{
+  width: 300px;
+  min-height: 400px;
+  float: left;
+  padding: 20px;
+}
+
+#tabla{
+  color: rgb(136, 5, 197);
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.card{
+  width: 450px;
+}
+
+#footer{
+  background-color: rgb(136, 5, 197);
+  align-items: center;
+  text-align: center;
+  padding-right: 50px;
+  padding-top: 10px;
+  width: 1310px;
+  height: 100px;
+}
+
